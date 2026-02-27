@@ -1,0 +1,31 @@
+# SimuGen - MATLAB/Simulink files
+*.slx
+*.slxc
+*.mexa64
+*.mexmaci64
+*.mexw64
+slprj/
+*.autosave
+
+# MATLAB generated
+*.asv
+*.m~
+codegen/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.key
+
+# Build artifacts
+*.o
+*.obj
+docs/professor_email_draft.md
+docs/research_proposal.md
